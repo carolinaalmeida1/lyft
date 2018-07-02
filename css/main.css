@@ -11,6 +11,7 @@
   height: 40rem;
 }
 
+/* Barra de navegação */
 .nav-bar {
   display: flex;
   justify-content: space-around;
@@ -43,6 +44,7 @@ ul li a {
   border: .0625rem solid white;
 }
 
+/* Box de cadastro */
 .white-box {
   float: right;
   width: 30rem;
@@ -100,6 +102,7 @@ ul li a {
   color: #728099;
 }
 
+/* Sessão sobre o aplicativo */
 .about {
   display: flex;
   justify-content: center;
@@ -132,6 +135,7 @@ ul li a {
   height: 500px;
 }
 
+/* Sessão dos vídeos */
 .video-content {
   display: flex;
   height: 30.3125rem;
@@ -160,6 +164,7 @@ ul li a {
   height: 485px;
 }
 
+/* Rodapé */
 footer {
   background-color: #333447;
   color: white;
@@ -204,6 +209,7 @@ footer li a:hover {
   text-decoration: underline;
   }
 
+/* Ícones */
 .apple, .google, .microsoft {
   width: 8.4375rem;
   height: 2.5rem;
